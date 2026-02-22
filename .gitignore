@@ -1,3 +1,6 @@
 data/archive.zip
 data/archive/resume_data.csv
 config/xgboost_regressor_model.pkl
+data/vector_dataset/*
+*.pyc
+config/.env
